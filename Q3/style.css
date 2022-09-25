@@ -1,0 +1,12 @@
+#top-wrapper {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding-left: 7em;
+}
+
+#butotn-div {
+  display: flex;
+  align-items: center;
+  gap: 9em;
+}
