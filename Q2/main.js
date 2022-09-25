@@ -7,7 +7,7 @@ let if_elseAns = document.getElementById("if-else-header-answer");
 // Variables
 let stringVar = "Neelabjo";
 stringCont.innerHTML = stringVar;
-let integerVar = 15;
+let integerVar = 13;
 stringCont.innerHTML = integerVar;
 
 // Sum function
@@ -27,5 +27,5 @@ if (age >= 19) {
 
 // Loops
 for (let i = 1; i < 11; i++) {
-  document.write(i * 3 + "<br>");
+  document.write(i * 5 + "<br>");
 }
